@@ -1,21 +1,37 @@
-It's a place where all searches end!
-
-We have a large, legal, every day growing universe of lyrics where stars of all genres and ages shine.
 
 
-Friday night and the lights are low
-Anybody could be that guy
-And when you get the chance...
-See that girl, watch that scene, dig in the Dancing Queen
-You're in the mood for a dance
-You can dance, you can jive, having the time of your life
-Dig in the Dancing Queen 
 
 <<<<<<< HEAD
-This is to have merge conflicts - Lisa!
-=======
-People need hope, people need loving
-People need trust from a fellow man
-People need love to make a good living
-People need faith and a helping hand
->>>>>>> 3f649a46adf0f474302966b4baef10a689fa93df
+
+<<<<<<< HEAD
+
+
+
+
+
+
+Dig in the Dancing Queen 
+
+Friday night and the lights are low
+Looking out for the place to go
+
+
+Anybody could be that guy
+Night is young and the music's high
+
+
+And when you get the chance...
+You are the Dancing Queen, young and sweet, only seventeen
+
+
+See that girl, watch that scene, dig in the Dancing Queen
+You're a teaser, you turn 'em on
+
+
+You're in the mood for a dance
+And when you get the chance...
+
+
+You can dance, you can jive, having the time of your life
+See that girl, watch that scene, digging the Dancing Queen
+>>>>>>> cae716739051dfc03995a27c466520f0323e69d8
